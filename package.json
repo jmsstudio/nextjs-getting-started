@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsstudio/nextjs-getting-started.git"
+  },
+  "keywords": ["next.js"],
+  "author": "jmsstudio",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jmsstudio/nextjs-getting-started/issues"
+  },
+  "homepage": "https://github.com/jmsstudio/nextjs-getting-started#readme",
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
