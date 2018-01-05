@@ -1,9 +1,11 @@
+import Template from '../components/Template';
+
 function About() {
   return (
-    <div>
+    <Template>
       <h2>About</h2>
       <p>About this project</p>
-    </div>
+    </Template>
   );
 }
 

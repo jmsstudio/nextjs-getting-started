@@ -1,14 +1,10 @@
-import Link from 'next/link';
+import Template from '../components/Template';
 
 function Index() {
   return (
-    <div>
+    <Template>
       <p>Hello Next.js!</p>
-
-      <Link href="/about">
-        <button>About</button>
-      </Link>
-    </div>
+    </Template>
   );
 }
 
